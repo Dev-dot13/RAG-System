@@ -11,6 +11,11 @@ Features:
 - Efficient GPU usage and memory management
 - Interactive query interface
 
+Prerequisites:
+- Python 3.9+
+- NVIDIA GPU (recommended) with CUDA
+- At least 16GB RAM (for 7B model)
+
 Tech Stack:
 - LangChain
 - Hugging Face Transformers
