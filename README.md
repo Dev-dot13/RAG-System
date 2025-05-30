@@ -20,8 +20,8 @@ Tech Stack:
 Setup Instructions:
 
 1. Clone the Repository
-   git clone https://github.com/yourusername/rag
-   cd rag
+   git clone https://github.com/Dev-dot13/RAG-System
+   cd RAG-System
 
 2. Install Dependencies
    pip install -r requirements.txt
