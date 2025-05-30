@@ -1,4 +1,4 @@
-Retrieval-Augmented Generation (RAG) System using Hugging Face & FAISS
+# Retrieval-Augmented Generation (RAG) System using Hugging Face & FAISS
 
 This project implements a Retrieval-Augmented Generation (RAG) system that combines document retrieval with large language model (LLM) generation. It supports multiple data sources such as PDFs and websites, and uses FAISS for fast similarity search and a quantized Zephyr 7B model for efficient response generation.
 
