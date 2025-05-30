@@ -2,21 +2,6 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) system that combines document retrieval with large language model (LLM) generation. It supports multiple data sources such as PDFs and websites, and uses FAISS for fast similarity search and a quantized Zephyr 7B model for efficient response generation.
 
-Project Structure:
-rag/
-│
-├── data/
-│   ├── deccanqueen.pdf
-│   └── pune.pdf
-│
-├── faiss_index/
-│   ├── index.faiss
-│   └── index.pkl
-│
-├── rag4.py                 # Main RAG pipeline
-├── requirements.txt        # Python dependencies
-└── README.txt              # Project documentation
-
 Features:
 - Load documents from PDFs (and optionally from websites, markdown folders, CSVs)
 - Split documents into manageable chunks
